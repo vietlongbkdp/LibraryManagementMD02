@@ -1,0 +1,6 @@
+1201,Sach Toan,Nguyen Long,Giao duc,false,A,Kiến thức khoa học,10000.0,Sach bai tap,2023-09-07
+1202,Sach Van,Hang Dat,Giao duc,true,A,Tiểu thuyết,12000.0,Sach giao khoa,2023-09-07
+1203,Sach Ly,Le Tuong,Giao Duc,true,A,Tiểu thuyết,15000.0,Sach giai,2023-09-07
+1204,Sach Hoa,Pham Vinh,Kim Dong,false,B,Truyện ngắn,20000.0,Sach Truyen,2023-09-07
+1205,Sach Tieng Anh,Dang Quang,Giao duc,true,B,Kiến thức khoa học,17000.0,Sach nham nhi,2023-09-07
+1206,Sach Lich Su,Viet Long,Kim Dong,true,C,Truyện ngắn,12000.0,1,2023-09-07
